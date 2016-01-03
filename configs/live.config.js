@@ -1,3 +1,5 @@
+var config = require('bedrock').config;
+
 // server info
 config.server.port = 3100;
 config.server.httpPort = 22080;
