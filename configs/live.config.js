@@ -1,4 +1,5 @@
 var config = require('bedrock').config;
+var path = require('path');
 
 // server info
 config.server.port = 3100;
